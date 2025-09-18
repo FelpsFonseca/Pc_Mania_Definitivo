@@ -1,3 +1,6 @@
+//Felipe Fonseca Vidal Prado    
+//GEC
+//1898
 import cliente.Cliente;
 import computador.Computador;
 import computador.HardwareBasico;
